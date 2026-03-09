@@ -12,7 +12,7 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-✨ **Full-Stack Web Developer with just ONE course**  
+✨ **Full-Stack Web Developer**  
 🚀 Passionate about building modern web applications  
 
 🌱 Currently working with:
@@ -35,7 +35,7 @@
 - Decentralized Applications
 - Open Source
 
-📫 Reach me: **your-email@example.com**
+📫 Reach me: **rafiqabdelaziz2040@icloud.com**
 
 ---
 
@@ -68,12 +68,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=3bziDev&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=3bziDev&show_icons=true&theme=tokyonight&count_private=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bziDev&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bziDev&layout=compact&theme=tokyonight">
 
 </p>
-
 ---
 
 # 🚀 Projects
