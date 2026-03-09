@@ -3,8 +3,6 @@
 <p align="center">
   <a href="#">Portfolio</a> -
   <a href="#">LinkedIn</a> - 
-  <a href="#">Twitter</a> -
-  <a href="#">Website</a> -
   <a href="#">Contact Me</a>
 </p>
 
@@ -70,9 +68,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=3bziDev&show_icons=true&theme=dark">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bziDev&layout=compact&theme=dark">
 
 </p>
 
@@ -93,8 +91,7 @@ More projects coming soon...
 <p align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-black?logo=x"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
+<a href="https://github.com/3bziDev"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
 
 </p>
 
