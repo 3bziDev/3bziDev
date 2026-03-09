@@ -1,5 +1,11 @@
-<h1 align="center">Hi there 👋, I'm <a href="#">3bziDev</a></h1>
+<div align="center">
 
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBjdXN0b20mY3Q9cw/WUlplcMpOCoA8/giphy.gif" width="35px"> Bienvenue sur mon profil !
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Web3+%26+DApps+Architect;Software+Engineer" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&pause=2000&color=A9B1D6&center=true&vCenter=true&width=800&height=100&lines=Spécialiste+en+écosystèmes+React%2C+Node.js+et+PostgreSQL.;Passionné+par+le+développement+décentralisé+et+le+Web3.;Expert+en+création+d'interfaces+modernes+et+robustes." alt="Description Typing SVG" />
+</div>
 <p align="center">
   <a href="#">Portfolio</a> -
   <a href="#">LinkedIn</a> - 
